@@ -12,6 +12,6 @@
 - 📫 Talk to me about web-developing, python, data science and motorcycles, cars or movies
 
 ## Technologies:
-- 🐍 Python: scikit-learn, tensorflow, pytorch, statsmodels, numpy, pandas, scipy, beautifulsoup, matplotlib, pyplot, nltk, opencv
+- 🐍 Python: scikit-learn, tensorflow, pytorch, statsmodels, numpy, pandas, scipy, beautifulsoup, matplotlib, pyplot, nltk, opencv, django
 - 💽 SQL: Postgres, Oracle, MS
 - 🌐 NoSQL: MongoDB, Neo4j
