@@ -10,12 +10,12 @@
 
 
 ## About me:
-- 🏦 I'm a <b>Data Scientist</b> working for a top 10 bank in Russia
+- 🏦 I'm a <b>Data Scientist</b>
 - 🎓 I'm a <b>Master of Mathematics and Computer Science</b>
 - 👨🏼‍🏫 I love exploring data and convert it into money
 - 📫 Talk to me about web-developing, python, data science and motorcycles, cars or movies
 
 ## Technologies:
-- 🐍 Python: scikit-learn, tensorflow, pytorch, statsmodels, numpy, pandas, scipy, beautifulsoup, matplotlib, pyplot, nltk, opencv, django, fastapi
+- 🐍 Python: scikit-learn, tensorflow, pytorch, statsmodels, numpy, pandas, scipy, beautifulsoup, matplotlib, pyplot, nltk, opencv, django, fastapi etc.
 - 💽 SQL: Postgres, Oracle, MS
-- 🌐 Others: MongoDB, Neo4j, Redis, Svelte
+- 🌐 Others: MongoDB, Neo4j, Redis, SvelteKit
